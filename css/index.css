@@ -3,5 +3,42 @@
 }
 
 header{
+    /* background-color: aquamarine; */
+    background-image: linear-gradient(to top ,red,yellow);
     background-color:aquamarine;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
+
+header h1 {
+    text-align: center;
+    margin: 0;
+}
+
+nav {
+    background-color: #c0c0c0;
+    width: 300px;
+    float: left;
+}
+nav ul { list-style: none;
+}
+nav ul a {
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 14pt;
+    color: #f0f0f0
+}
+nav ul a:hover{
+    color: #ffffff;
+}
+ footer {
+     /* background-color: aquamarine; */
+     background-image: linear-gradient(to top right, red, yellow);
+     background-color:aquamarine;
+     text-align: center;
+     padding-top: 30px;
+     padding-bottom: 30px;
+ }
+
+
+   
