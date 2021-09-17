@@ -4,7 +4,7 @@
 
 header{
     /* background-color: aquamarine; */
-    background-image: linear-gradient(to top ,red,yellow);
+    background-image: linear-gradient(to top ,rgb(0, 255, 221),yellow);
     background-color:aquamarine;
     padding-top: 30px;
     padding-bottom: 30px;
